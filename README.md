@@ -100,3 +100,4 @@ npm run electron-dev
 ## Disclaimer
 
 This app or the creator is not associated or affiliated to Instagram. This is an unofficial application and stands no liability or warranty of usage. Use at your own risk.
+
